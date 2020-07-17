@@ -7,4 +7,4 @@
 I am a student and developer, passionate about technology and how it can positively impact people's lives.
 
 - 👨🏼‍💻 Studying Swift, Flutter and Python
-- 🤖 Also interested in Machine Learning and IA
+- 🤖 Also interested in Machine Learning and AI
