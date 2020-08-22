@@ -6,5 +6,6 @@
 
 I am a student and developer, passionate about technology and how it can positively impact people's lives.
 
-- 👨🏼‍💻 Studying Swift, Flutter and Python
+- 👨🏼‍💻 Working with Node.js and React.
+- 📚 Studying Swift and Java
 - 🤖 I'm also interested in Machine Learning and AI
