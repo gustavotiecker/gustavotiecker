@@ -6,6 +6,6 @@
 
 I am a student and developer, passionate about technology and how it can positively impact people's lives.
 
-- 👨🏼‍💻 Working with Node.js and React.
+- 👨🏼‍💻 Working with Node.js.
 - 📚 Studying Swift and Java
 - 🤖 I'm also interested in Machine Learning and AI
