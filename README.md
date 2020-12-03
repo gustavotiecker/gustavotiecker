@@ -10,6 +10,8 @@
   <img align="left" alt="Gustavo's e-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br/>
+
 I am a student and developer, passionate about technology and how it can positively impact people's lives.
 
 - 👨🏼‍💻 Working with Node.js.
