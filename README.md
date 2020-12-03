@@ -11,8 +11,11 @@
 </a>
 
 <br/>
+<br/>
 
 I am a student and developer, passionate about technology and how it can positively impact people's lives.
+
+<br/>
 
 - 👨🏼‍💻 Working with Node.js.
 - 📚 Studying Swift and Java
