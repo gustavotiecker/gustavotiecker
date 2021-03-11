@@ -12,6 +12,6 @@ I'm a student and iOS developer, passionate about technology and how it can posi
 <br/>
 
 - 🇧🇷 I'm from Brazil
-- 👨🏼‍💻 iOS Development Intern at [MB Labs](https://mblabs.com.br)
+- 👨🏼‍💻 iOS Developer Intern at [MB Labs](https://mblabs.com.br)
 - 📚 Student of Systems Analysis and Development at Federal University of Technology - Paraná
 - 🤖 I'm also interested in Machine Learning and AI
