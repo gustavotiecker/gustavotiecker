@@ -7,11 +7,10 @@
 
 <br/>
 
-I'm a student and iOS developer, passionate about technology and how it can positively impact people's lives. 
+I'm an iOS software engineer, passionate about technology and how it can positively impact people's lives, having worked from startup projects to those that impact millions of people. I enjoy learning from personal projects, and open source projects, testing new things and researching.
 
 <br/>
 
 - 🇧🇷 I'm from Brazil
 - 👨🏼‍💻 iOS Software Engineer at [PagSeguro](https://pagseguro.uol.com.br)
-- 📚 Student at Federal University of Technology - Paraná
 - 🤖 I'm also interested in Machine Learning and AI
